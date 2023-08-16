@@ -26,6 +26,8 @@ $ mvn clean install
 $ java -jar target/eventmgtservice-0.0.1.jar
 ```
 
+Note: firebase service-account should in resources folder
+
 ## Contributing
 
 Bug reports and pull requests are welcome :)
